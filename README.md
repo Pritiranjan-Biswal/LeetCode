@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
