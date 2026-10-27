@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Array
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
@@ -48,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
