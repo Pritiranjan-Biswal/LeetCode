@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
