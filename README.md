@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
