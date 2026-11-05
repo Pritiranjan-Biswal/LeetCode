@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
