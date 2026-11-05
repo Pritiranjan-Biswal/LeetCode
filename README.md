@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
