@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
