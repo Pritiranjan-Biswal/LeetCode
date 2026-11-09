@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0049-group-anagrams) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0125-valid-palindrome) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
