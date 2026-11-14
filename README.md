@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0724-find-pivot-index) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
