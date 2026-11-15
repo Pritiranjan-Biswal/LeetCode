@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pritiranjan-Biswal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
